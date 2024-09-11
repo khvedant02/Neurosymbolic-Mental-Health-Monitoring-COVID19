@@ -1,5 +1,7 @@
 # Neurosymbolic Mental Health Monitoring during COVID-19
 
+Please note: The code with the dataset link will be updated by 16th September 2024. 
+
 ## Overview
 This repository contains the source code and resources associated with our paper "A Domain-Agnostic Neurosymbolic Approach for Big Social Data Analysis: Evaluating Mental Health Sentiment on Social Media During COVID-19." The paper was submitted to IEEE Big Data and outlines a novel neurosymbolic AI method to monitor mental health sentiment on social media platforms like Twitter and Reddit during the COVID-19 pandemic.
 
