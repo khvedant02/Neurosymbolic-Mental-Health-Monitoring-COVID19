@@ -24,7 +24,7 @@ This repository contains the source code and supplementary resources for our pap
 - `requirements.txt`: Lists all dependencies required to run the project.
 
 ## Data Sharing
-Access to the datasets used in our study is currently restricted to tweet IDs due to Twitter's data sharing policies. Researchers can access these IDs and related datasets via the following link: [Access Tweet IDs and Datasets](https://example.com/dataset-link). These IDs can be hydrated using Twitter API tools for replication of our study or further analysis.
+Due to Twitter's data-sharing policies, access to the datasets used in our study is currently restricted to tweet IDs. Researchers can access these IDs and related datasets via the following link: [Access Tweet IDs and Datasets]([https://example.com/dataset-link](https://drive.google.com/drive/folders/19YGyTZRF-GHDZFPvrzYUxi6KWsin3OjM?usp=sharing)). These IDs can be hydrated using Twitter API tools for replication of our study or further analysis.
 
 ## Installation
 To set up your environment for replicating our analysis or adapting the methodologies:
